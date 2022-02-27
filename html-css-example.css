@@ -31,7 +31,7 @@ h2 {
 }
 
 p {
-    color: aliceblue;
+    color: white;
     line-height: 1.3em;
     font-size: 20px;
     font-family: Helvetica;
@@ -62,7 +62,7 @@ p {
     padding: 10px;
     position: relative;
     top: 80%;
-    width: 60%;
+    width: 55%;
 }
 
 .content {
@@ -71,9 +71,10 @@ p {
 
 .image {
     background-image: url("mountain.jpg");
+    opacity: 1;
     background-size: cover;
     background-position: center;
-    height: 300px;
+    height: 600px;
 }
 
 .writer-img {
